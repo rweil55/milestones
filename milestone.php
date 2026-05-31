@@ -5,7 +5,6 @@
  *      setting up and displaying milestones on the trail
  *
  * */
-
 class freewheelingeasy_milestones
 {
 
